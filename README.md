@@ -64,4 +64,10 @@ Based on the XGBoost model, these were the most influential features in predicti
 
 ---
 
-"# kl-condominium-price-prediction" 
+## 🔭 Future Work
+
+- 💡 Extend this classification work into a **continuous regression model** to predict actual property prices in RM
+- 🛠️ Planned models include XGBoostRegressor, Random Forest Regressor, and Linear Regression
+- 🔍 Goal: Evaluate R², RMSE, and model interpretability for investment-grade predictions
+
+---
